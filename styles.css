@@ -1,0 +1,167 @@
+/* Headings */
+
+.big-heading {
+    font-family: "Signika";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-top: 123;
+    padding-left: 2rem;
+  }
+
+  /*Title*/
+
+  #title {
+  background-color: #DEB6AB;
+  color: #fff;
+  text-align: left;
+}
+
+
+/* Title Image */
+
+.title-image {
+  width: 55%;
+  height: 90%;
+  position: relative;
+  left: 5rem;
+  top: 10%;
+
+}
+
+#title.container-fluid {
+  padding: 0;
+}
+/*Features*/
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box-1 {
+  padding-left: 5%;
+  
+}
+.feature-box-2 {
+  padding-left: 5%;
+  
+}
+
+.feature-box-3 {
+  padding-left: 5%;
+  
+}
+
+.feature-img{
+  display: flex;
+  width: 22%;
+  height: 34%;
+  margin-left: 926px;
+  margin-top: 178px;
+
+}
+
+.feature-title-1 {
+  font-size: 1.5rem;
+  padding-left: 5.8%;
+}
+
+.feature-title-2 {
+  font-size: 1.5rem;
+}
+
+.feature-title-3 {
+  font-size: 1.5rem;
+}
+
+.feature-para-1 {
+  padding-left: 5%;
+}
+
+/*Icons*/
+.circle-icon-1 {
+    background: #E5BEEC;
+    padding:50px;
+    border-radius: 50%;
+}
+
+.circle-icon-2 {
+    background: #CFFFDC;
+    padding:50px;
+    border-radius: 50%;
+}
+
+.circle-icon-3 {
+    background: #E3F2C1;
+    padding:50px;
+    border-radius: 50%;
+}
+
+.icon {
+  color: #040303;
+  margin-bottom: 1rem;
+align-items: center;
+}
+
+.icon:hover {
+  color: #FFFFFF;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  padding-left: 1%;
+}
+
+/*Sections*/
+.colored-section {
+  background-color: #553939;
+  color: #fff;
+}
+
+.white-section {
+  padding-top: 5%;
+  padding-bottom: 3%;
+  background-color: #fff;
+}
+
+.final-punch {
+  padding-top: 5%;
+  padding-bottom: 3%;
+  text-align: center;
+
+}
+
+/*Main*/
+h2 {
+  font-family: "Signika";
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/*Footer*/
+
+.footer-img{
+  width: 35%;
+  height: 55%;
+  position: relative;
+  left: 54rem;
+  top: 10%;
+}
+
+#footer {
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+
+/*Card*/
+.col-md-8 {
+  background-color: #040303;
+}
+
+#ca-ti {
+  color: #FFFFFF;
+}
+.card-text {
+  color: #ECC9EE;
+
+}
